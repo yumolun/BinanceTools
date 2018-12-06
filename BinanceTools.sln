@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailTools", "EmailTools\EmailTools.csproj", "{88144570-AF93-4CC3-BC60-241945F5F4AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingTools", "TradingTools\TradingTools.csproj", "{1126299A-1350-4BDC-8AAE-01EB31107364}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Startup", "Startup\Startup.csproj", "{99C2C040-31F7-4DE8-AD9E-36EAE4027324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88144570-AF93-4CC3-BC60-241945F5F4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88144570-AF93-4CC3-BC60-241945F5F4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88144570-AF93-4CC3-BC60-241945F5F4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88144570-AF93-4CC3-BC60-241945F5F4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1126299A-1350-4BDC-8AAE-01EB31107364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1126299A-1350-4BDC-8AAE-01EB31107364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1126299A-1350-4BDC-8AAE-01EB31107364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1126299A-1350-4BDC-8AAE-01EB31107364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C2C040-31F7-4DE8-AD9E-36EAE4027324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C2C040-31F7-4DE8-AD9E-36EAE4027324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C2C040-31F7-4DE8-AD9E-36EAE4027324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C2C040-31F7-4DE8-AD9E-36EAE4027324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16895F81-9069-4925-8E2F-EA618F3B8E27}
+	EndGlobalSection
+EndGlobal
